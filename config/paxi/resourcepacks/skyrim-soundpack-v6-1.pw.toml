@@ -1,0 +1,8 @@
+name = "Skyrim Soundpack v6.1"
+filename = "Skyrim.Soundpack.v6.1.zip"
+side = "both"
+
+[download]
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/Skyrim.Soundpack.v6.1.zip"
+hash-format = "sha256"
+hash = "e5e25dd2de776e28e1df344c03b126a076494e26c93450def644b8331b672d6f"

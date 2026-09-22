@@ -8458,8 +8458,9 @@ file = "config/paxi/resourcepacks/Otherworld Assets/pack.png"
 hash = "82871684a28486ca25713dcf94e1194c0943762d75b5c9e9534a352577070523"
 
 [[files]]
-file = "config/paxi/resourcepacks/Skyrim Soundpack v6.1.zip"
-hash = "e5e25dd2de776e28e1df344c03b126a076494e26c93450def644b8331b672d6f"
+file = "config/paxi/resourcepacks/skyrim-soundpack-v6-1.pw.toml"
+hash = "b32d90867a5da897c155745d6c2d81a3a51ed5bcd818d39f72995c5aca6fc3c1"
+metafile = true
 
 [[files]]
 file = "config/pehkui-client.toml"
