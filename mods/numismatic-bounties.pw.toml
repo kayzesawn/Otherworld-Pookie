@@ -1,0 +1,13 @@
+name = "Numismatic Bounties (Numismatic Overhaul)"
+filename = "Numismatic-Bounties-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eabb63aee081ebedb63434062f896cf470c04fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6586611
+project-id = 1253059

@@ -1,0 +1,13 @@
+name = "Otherworld - Apotheosis"
+filename = "otherworldapoth-0.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af6a85c45551611caac33d1fa3e85327640a8be1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8074820
+project-id = 1144178

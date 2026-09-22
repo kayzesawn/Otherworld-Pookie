@@ -1,0 +1,12 @@
+name = "Otherworld"
+version = "v8 HF2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac888597d36c2d9307a8039363cdd5ab3d4023d978b648ab717d824a4a850894"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"

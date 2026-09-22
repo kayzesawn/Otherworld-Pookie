@@ -1,0 +1,13 @@
+name = "Otherworld Core"
+filename = "otherworld-0.8.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6dabfe1f863564989189dcaa74887095e5f87ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8071719
+project-id = 1351232

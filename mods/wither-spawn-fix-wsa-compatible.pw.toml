@@ -1,0 +1,13 @@
+name = "Wither Spawn Fix W.S.A. Compatible"
+filename = "wither_spawn_fix_wsa_compatible-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56c51ffc693d67736a8f6c4fa8c72634f260d641"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7211177
+project-id = 1382208

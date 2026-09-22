@@ -1,0 +1,13 @@
+name = "Barely Default x Fresh Animations"
+filename = "THIS_PACK_ON_TOP.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c3744578e2ece41140c2e0eaab7c4dcd4bdc435"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4818559
+project-id = 856606

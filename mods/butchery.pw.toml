@@ -1,0 +1,13 @@
+name = "Butchery"
+filename = "butchery-4.9-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5808464786341441aee44eb794eb9d29e715839"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7974743
+project-id = 973620

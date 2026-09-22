@@ -1,0 +1,13 @@
+name = "Gallant Gauntlets"
+filename = "gauntlets-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "697a7b5761052b8e5fd92c644fe44f1a2c5fbf18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5653770
+project-id = 1011857

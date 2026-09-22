@@ -1,0 +1,13 @@
+name = "Pinnacle (for Apotheosis)"
+filename = "Pinnacle 2.8.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74a8c13e1705b83e7aa2621936a9624020e13443"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5032214
+project-id = 537489

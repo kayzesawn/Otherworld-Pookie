@@ -1,0 +1,13 @@
+name = "\"Barely Default\" by Mickey Joe"
+filename = "MickeyJoesBarelyDefault_V10.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe3a8a8f02d897999d1ff059101066613fa93681"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4961016
+project-id = 322168

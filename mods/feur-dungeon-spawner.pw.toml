@@ -1,0 +1,13 @@
+name = "Feur - Dungeon Spawner"
+filename = "feur_dungeon_spawner-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47f0708b45b0d9fc9514c860c80fc7c606684801"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6680334
+project-id = 1178013

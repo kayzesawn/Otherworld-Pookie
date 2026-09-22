@@ -1,0 +1,1778 @@
+[
+  {
+    "spellId": "gtbcs_geomancy_plus:fissure",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Creates a fissure that travels forward, and erupts in a small spike that deals damage."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:tremor_spike",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Erupts multiple spikes in expanding rings around the caster, dealing damage and knocking up nearby entities."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:tremor_step",
+    "category": "UNCATEGORIZED",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Applies an effect that deals damage to nearby enemies while sprinting and grants increased movement speed to the caster."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:eroding_boulder",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Shoots out a small boulder that explodes on contact, dealing damage to nearby enemies and applying the Erode effect."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:chunker",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Summons a large rolling dirt block that moves forward, damaging and knocking back enemies in its path."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:seismic_surf",
+    "category": "UNCATEGORIZED",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Summons a large rideable boulder that rises into the air and moves forward on its own in the direction you\u0027re looking. Near the end of its duration, it\u0027ll safely drop the rider down. Rider can trigger this drop early by casting Counterspell on it."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:dripstone_bolt",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Fires a shard of dripstone that shatters on impact, damaging the target and 50% of its damage in a small area."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:pillar_of_the_resounding_earth",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Summons a large geo pillar that sends out powerful shockwaves, damaging enemies while shredding their Armor and Spell Resistance to every element. The shockwaves resonate with nearby geo entities. Certain geo entities may trigger additional special effects when struck by a resonance shockwave."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:geo_conductor",
+    "category": "SUPPORT,DEFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Summons a small geo pillar that resonates with nearby allies, releasing periodic waves energy. Standing near it grants stacking bonuses to Armor and Spell Resistance to every element. Can serve as the main resonance conductor for Pillar of the Resounding Earth."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:petrivise",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Raises two massive stone walls on opposite sides that slam together, crushing enemies caught between them. The impact funnels targets toward the center, lining them up for follow-up attacks."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:weeping_wall",
+    "category": "DEFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Creates a wall of obsidian by carefully placing multiple pillars, that blocks incoming damage and acts as a shield. When the wall expires or is destroyed, it releases the stored damage in an area around it."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:crystalline_conduit",
+    "category": "SUPPORT",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Creates a large amethyst cluster that pulses with geo energy, granting Geo Spell Power to the caster while inside its radius. When it resonates with Pillar of the Resounding Earth, it restores mana to the caster."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:weeping_cluster",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Creates a unique crying obsidian cluster that stores damage dealt to entities in its radius each 1s. If the stored damage exceeds the cluster’s capacity, or when the cluster expires, it detonates and deals the stored damage in the area."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:solar_storm",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Applies an effect that calls continuous sunstrikes onto nearby enemies, damaging them and setting them on fire. Can only be obtained by defeating Umvuthi, The Sunbird."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:solar_beam",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Unleashes a continuous beam of solar energy in a straight line, damaging all entities caught within. Can only be obtained by defeating Umvuthi, The Sunbird."
+  },
+  {
+    "spellId": "gtbcs_geomancy_plus:solar_chorus",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Summons Umvuthana Raptors to fight for you. Each Umvuthana Raptor spawns with 2 Umvuthana Cranes. Can only be obtained from Umvuthana Raptor."
+  },
+  {
+    "spellId": "traveloptics:vortex_of_the_deep",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Conjures a massive water vortex that pulls entities toward its center, slowing them and applying Wet effect. The vortex periodically discharges Boltstrikes to devastate those within it\u0027s radius."
+  },
+  {
+    "spellId": "traveloptics:bubble_spray",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Sprays a stream of bubbles that deals damage, slows affected entities, and applies the Wet effect."
+  },
+  {
+    "spellId": "traveloptics:hydroshot",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Fires a small water bolt that deals damage, slows enemies, and applies the wet effect."
+  },
+  {
+    "spellId": "traveloptics:aqua_missiles",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "RARE",
+    "castType": "CONTINUOUS",
+    "description": "Fires a rapid succession of water bolts that deal damage and home in on nearby entities."
+  },
+  {
+    "spellId": "traveloptics:jet_steam",
+    "category": "DEFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Generates a powerful surge that propels the caster at high speed while using elytra or swimming underwater, granting temporary water breathing."
+  },
+  {
+    "spellId": "traveloptics:echo_of_the_abyss",
+    "category": "UNCATEGORIZED",
+    "school": "traveloptics:aqua",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summons a Hullbreaker to fight and protect the caster. Can be used as an underwater mount, granting water breathing while ridden. Can only be obtained from defeating Hullbreaker."
+  },
+  {
+    "spellId": "traveloptics:rainfall",
+    "category": "SUPPORT,DEFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Calls down a rainstorm that grants immunity to negative effects for the caster and applies the Wet effect to everyone within."
+  },
+  {
+    "spellId": "traveloptics:flood_slash",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Unleashes a aqua-infused slash projectile that deals damage and converts damage dealt into Mana for the caster. Hitting multiple entities increases the caster\u0027s Mana regeneration temporarily."
+  },
+  {
+    "spellId": "traveloptics:coral_barrage",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Cast to mark targets, unleashing a barrage of coral bolts at the end of recasting. Bolts damage, pierce, and shatter into shrapnel, dealing AoE damage within a 2-block radius."
+  },
+  {
+    "spellId": "traveloptics:tidal_grasp",
+    "category": "UNCATEGORIZED",
+    "school": "traveloptics:aqua",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Pulls a targeted entity toward the caster, striking them with force to deal damage while applying a Stun and the Wet effect."
+  },
+  {
+    "spellId": "traveloptics:floodgate",
+    "category": "DEFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Imposes a damage cap on the caster, ensuring that any incoming damage exceeding the threshold is reduced to the cap. When damage surpasses the threshold, waves surge outward in all directions, dealing damage."
+  },
+  {
+    "spellId": "traveloptics:tsunami",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Call forth an unstoppable tide that surges forward, slamming into enemies, dealing damage, sweeping them away, and applying wet effect."
+  },
+  {
+    "spellId": "traveloptics:skypiercer",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Calls down a phantom Trident Of Eternal Maelstrom from the sky, dealing impact damage in an area. The trident remains, pulsing for 50% of the impact damage at intervals and inflicting Tidal Torment, causing thrown Trident Of Eternal Maelstrom to explode in an area and slowing affected enemies. Requires Trident Of The Eternal Maelstrom to cast this spell."
+  },
+  {
+    "spellId": "traveloptics:serpentide",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Summons a cascade of Storm Serpents that strike down in a straight line one after another, dealing damage and applying Wet effect. Damage ignores i-frames. Can only be obtained by defeating Scylla."
+  },
+  {
+    "spellId": "traveloptics:the_howling_tempest",
+    "category": "OFFENSIVE",
+    "school": "traveloptics:aqua",
+    "minRarity": "EPIC",
+    "castType": "CONTINUOUS",
+    "description": "After a 3s charge, conjures a raging tempest that rains down water spears, dealing damage and applying Wet effect. Each hit has a 50% chance to either increase the Wet amplifier (up to 10x) or extend its duration by 2s. Can only be obtained by defeating Scylla."
+  },
+  {
+    "spellId": "traveloptics:herald_of_acropolis",
+    "category": "UNCATEGORIZED",
+    "school": "traveloptics:aqua",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Conjures a loyal Clawdian to fight and protect you. Can only be obtained by defeating a Clawdian."
+  },
+  {
+    "spellId": "traveloptics:overflow",
+    "category": "UNCATEGORIZED",
+    "school": "traveloptics:aqua",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Causes water to erupt from the ground that spreads into a wide pool. The pool continuously applies Aqua Spell Power scaling Wet effect to anything inside it. The Wet effect grows stronger over the spell’s duration, reaching its maximum intensity as the spell ends."
+  },
+  {
+    "spellId": "traveloptics:vigor_siphon",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Cast to connect with your nearest summon. Damage dealt by the summon heals you, and your damage heals the summon in return. If you die while tethered, the linked summon is sacrificed to restore you with 8hp"
+  },
+  {
+    "spellId": "traveloptics:blood_howl",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Cast to shoot wither howitzer projectiles at your target. This spell has recasts."
+  },
+  {
+    "spellId": "traveloptics:eek",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "Eek yourself and eek targeted entity."
+  },
+  {
+    "spellId": "traveloptics:nocturnal_swarm",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cast to summon deadly swarm of Vesper."
+  },
+  {
+    "spellId": "traveloptics:call_forth_the_dead_king",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summons an Enraged Dead King boss to challenge you. Defeating it grants a higher chance of obtaining high-quality loot, including the exclusive spell Blackout. The Enraged Dead King can cast additional powerful spells. The high mana cost is intentional to make it only cast-able from scrolls. Can only be found in Catacombs Chests."
+  },
+  {
+    "spellId": "traveloptics:abyssal_blast",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Cast to fire a devastating beam of abyssal energy in a straight line. While active, caster cannot move or look around. Can only be found by defeating The Leviathan."
+  },
+  {
+    "spellId": "traveloptics:shadowed_miasma",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Inflicts nearby enemies with the abyssal curse effect and infuses your weapon with the same curse. Dealing damage to an enemy during the effect has a chance to spread the effect to nearby enemies."
+  },
+  {
+    "spellId": "traveloptics:spectral_blink",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "After activation, the caster has 3 seconds. During this time, they can teleport to any entity they are looking at, even through walls. Any entities within the teleportation range will be revealed to the caster."
+  },
+  {
+    "spellId": "traveloptics:reversal",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Reverses any incoming damage with increased power. Additionally, it can copy incoming projectiles."
+  },
+  {
+    "spellId": "traveloptics:the_forgotten_beast",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summon Forsaken, a powerful, rideable creature that fight alongside you. However, beware: its will is not fully tameable, and its ferocity may prove unpredictable. Can only be obtained by defeating Forsaken."
+  },
+  {
+    "spellId": "traveloptics:blackout",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Creates a lingering anti-magic field that suppresses abilities within its radius. Players caught in the zone are unable to cast spells and use items. Moving within the field inflicts small damage. Can only be obtained by defeating the Enraged Dead King."
+  },
+  {
+    "spellId": "traveloptics:psychic_bolt",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Select multiple targets on cast. On recast end, fires small projectiles that confuse targets on hit, making them prioritize attacking nearby non-player entities."
+  },
+  {
+    "spellId": "traveloptics:apex_harvest",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "Cast to consume up to 5 nearby Soul Apex and recharges the Cursed Wraithblade, instantly switching it into its Apex-Shot mode. Requires Cursed Wraithblade to cast this spell."
+  },
+  {
+    "spellId": "traveloptics:void_eruption",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Shoots Void Howitzer Projectiles that explode and summon void runes in a radius. This spell can be recast."
+  },
+  {
+    "spellId": "traveloptics:cursed_minefield",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "On cast, summons Leviathan’s abyssal mines in a radius around the player. The mine placement is random, but they cannot go below the caster’s Y level."
+  },
+  {
+    "spellId": "traveloptics:orbital_void",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Shoots Abyssal Orbs in a circular pattern around the caster. These orbs home in on the nearest enemy, relentlessly tracking and damaging them. Crouch cast to spread orbs across multiple random targets."
+  },
+  {
+    "spellId": "traveloptics:vortex_punch",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Create a Void Vortex, pulling enemies in. Teleport into it and unleash a crushing uppercut, dealing damage and sending foes flying upward."
+  },
+  {
+    "spellId": "traveloptics:eternal_sentinel",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Conjure a friendly Ender Golem to protect and fight by your side. Can only be obtained by defeating Ender Golem."
+  },
+  {
+    "spellId": "traveloptics:astral_sense",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Reveals the pathfinder of nearby entities in a radius. Normal casting alerts the caster about nearby threats, while crouch casting helps sense loot, traps, and valuables like Arcane Debris."
+  },
+  {
+    "spellId": "traveloptics:conjure_void_tomes",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Summon magical Void Tomes to fight by your side and unleash spell attacks upon your enemies. Can be found in Void Cathedral."
+  },
+  {
+    "spellId": "traveloptics:blink",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Low-cost, short-ranged teleport in the direction you\u0027re moving. Works omni-directionally."
+  },
+  {
+    "spellId": "traveloptics:supernova",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summon a collapsing star that builds in intensity over time. After a short delay, it erupts in a massive explosion, dealing heavy damage and gives birth to a supermassive black hole. The black hole pulls in nearby entities and continues to deal damage within its radius. Requires Wand of Final Light to cast this spell."
+  },
+  {
+    "spellId": "traveloptics:shear_of_the_stars",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summons a Dragon Spirit that flies forward, passing through blocks and damaging enemies it hits. It leaves behind a Stellar Trail that deals damage over time to nearby enemies. Dragon damage ignores I-Frames. Requires Stellothorn to cast this spell."
+  },
+  {
+    "spellId": "traveloptics:lingering_strain",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Grants a effect; During that any burst damage you get will be split into 4 different smaller damage and will be dealt over time giving the caster time to recover."
+  },
+  {
+    "spellId": "traveloptics:ashen_breath",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Exhale a cloud of darkening ash, damaging and blinding creatures in its reach."
+  },
+  {
+    "spellId": "traveloptics:annihilation",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Targets enemies and nukes them with a devastating spell that deals massive damage. Survivors are inflicted with a radiation effect, preventing incoming healing. Can only be  found from Toxic Caves ruins and by slaying Nucleepers."
+  },
+  {
+    "spellId": "traveloptics:lava_bomb",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Launches projectiles at a 45° angle in front of the caster, that explodes upon impact, creating lava pools. When cast, the spell absorbs nearby lava."
+  },
+  {
+    "spellId": "traveloptics:burning_judgment",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Creates Ignis flame strikes on the ground in a straight line for a duration. If the caster\u0027s health falls below 50%, the strikes transform into soul-fired flame strikes. Can only be obtained by defeating Ignis."
+  },
+  {
+    "spellId": "traveloptics:meteor_storm",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Summons Ignis fireballs to rain down from the sky. If the caster\u0027s health falls below 50%, the fireballs transform into soul-fired projectiles."
+  },
+  {
+    "spellId": "traveloptics:ignited_onslaught",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Cast to summon a Ignited Revenant \u0026 Berserker to protect you and fight for you. Can only be obtained by defeating Ignited Revenant and Ignited Berserker."
+  },
+  {
+    "spellId": "traveloptics:extinction",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Calls down a massive asteroid, smashing into the ground with incredible force. The impact devastates a large area, leaving a crater that erupts with searing heat, turning all within to ash. Only cast-able from Gauntlet Of Extinction."
+  },
+  {
+    "spellId": "traveloptics:gyro_slash",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Transform the Infernal Devastator into Blade Mode, slashing entities in front of you. Using an Infernal Devastator Evo 2 or higher creates a slash projectile that pulls in nearby entities with a fiery vacuum effect before bursting into flame jets. Only cast-able from Infernal Devastator."
+  },
+  {
+    "spellId": "traveloptics:flames_reborn",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Ignite a wave of fire, marking your place in time. If you fall, the flames will resurrect you at your marked spot, restoring you to the health you had when it was cast."
+  },
+  {
+    "spellId": "traveloptics:nullflare",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cast to inflict Nullflare Ice on enemies, or Crouch Cast to inflict Nullflare Fire; when Ice meets Fire, or vice versa, it triggers a Nullflare Blast, dealing damage. Additional effect stacks increase the Blast damage."
+  },
+  {
+    "spellId": "traveloptics:sword_of_the_ancients",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summon kobolediator to fight by your side and unleash devastating melee attacks upon your enemies. Can only be obtained by defeating Kobolediator."
+  },
+  {
+    "spellId": "traveloptics:summon_desert_dwellers",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Summon Koboletons and Wadjet to fight by your side. Can only be obtained by defeating Koboletons and Wadjet."
+  },
+  {
+    "spellId": "traveloptics:halberd_horizon",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Summons Phantom Halberds in the battlefield around the caster, damaging entities caught in it. Can only be obtained by defeating Maledictus."
+  },
+  {
+    "spellId": "traveloptics:despair",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Launches a magical Axe Blade forward on the look direction piercing through entities in its path. Deals damage to all caught in its trajectory."
+  },
+  {
+    "spellId": "traveloptics:sticky_steed_summon",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Conjure a Gum Worm that will follow you around, let you ride. Also protect, and fight for you. Can only be obtained by defeating Gum Worm."
+  },
+  {
+    "spellId": "traveloptics:cursed_revenants",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cast to summon random Draugr variants that\u0027ll protect you and fight for you."
+  },
+  {
+    "spellId": "traveloptics:axe_of_the_doomed",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summon a Aptrgangr to fight by your side and unleash devastating melee attacks upon your enemies. Can only be obtained by defeating Aptrgangr."
+  },
+  {
+    "spellId": "traveloptics:em_pulse",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cast to stun nearby entities for a short duration. Stunned enemies has a visual indicator."
+  },
+  {
+    "spellId": "traveloptics:rapid_laser",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Continuously shoots Harbinger\u0027s pew-pew laser to targeted entities."
+  },
+  {
+    "spellId": "traveloptics:death_laser",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Cast to shoot The Harbinger Laser beam in a straight line. While active, caster cannot move or look around."
+  },
+  {
+    "spellId": "traveloptics:magnetron_deployment",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Cast to deploy a Magnetron that will follow, protect, and fight for you. Can only be obtained by defeating Magnetron."
+  },
+  {
+    "spellId": "traveloptics:mechanized_predator",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Cast to deploy Watchers and The Prowler that will follow, protect, and fight for you. Can only be obtained by defeating The Watcher and The Prowler."
+  },
+  {
+    "spellId": "traveloptics:galena_shatter",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Slams the ground with Galena energy, releasing a magnetic shockwave that damages enemies and converts any Scarlet or Azure Charges into corresponding Marks. Marked targets take continuous damage over 1.5s, ignoring i-frames. When the effect ends, a final magnetic burst triggers, pulling opposite-marked entities and pushing away those with the same mark. Requires Galenic Polarizer to cast this spell."
+  },
+  {
+    "spellId": "traveloptics:stele_cascade",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Summons Ancient Desert Stele in a radius, crashing down and dealing damage."
+  },
+  {
+    "spellId": "traveloptics:aerial_collapse",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Inflict an effect that lifts enemies into the air for 2.5 seconds before crushing them down to the floor, dealing percentage-based damage to their health. The damage dealt ignores any kind of damage cap."
+  },
+  {
+    "spellId": "traveloptics:primal_pack",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Summon Vallumraptors and Tremorsaurus to fight by your side. Can only be obtained by defeating Vallumraptors and Tremorsaurus."
+  },
+  {
+    "spellId": "traveloptics:primordial_steed",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Summon a Atlatitan that will follow you around, let you ride. Also protect, and fight for you. Can only be obtained by defeating Luxtructosaurus."
+  },
+  {
+    "spellId": "traveloptics:violent_skreech",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "UNCOMMON",
+    "castType": "CONTINUOUS",
+    "description": "Continuously pulsate sound blast to Shred Armor, Damage Nearby enemies and Applying Chilled effect. 2% of damage deal converted into lifesteal."
+  },
+  {
+    "spellId": "darkdoppelganger:doppel_portal",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "LEGENDARY",
+    "castType": "CONTINUOUS",
+    "description": "spell.darkdoppelganger.doppel_portal.guide"
+  },
+  {
+    "spellId": "darkdoppelganger:summon_doppel_minion",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "spell.darkdoppelganger.summon_doppel_minion.guide"
+  },
+  {
+    "spellId": "alshanex_familiars:summon_shadows",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Call shadow knights into your world, they are invulnerable and will pursue the enemy relentlessly."
+  },
+  {
+    "spellId": "alshanex_familiars:default_note",
+    "category": "OFFENSIVE",
+    "school": "familiarslib:sound",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Perform a simple melody to hurt enemies, known to be so catchy that people can\u0027t get away from it."
+  },
+  {
+    "spellId": "alshanex_familiars:harp_symphony",
+    "category": "OFFENSIVE",
+    "school": "familiarslib:sound",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Performs a rumbling melody that hurts and stuns the enemy."
+  },
+  {
+    "spellId": "alshanex_familiars:explosion_melody",
+    "category": "OFFENSIVE",
+    "school": "familiarslib:sound",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Performs an outrageous melody that traps the enemies and annihilates them with an explosive climax."
+  },
+  {
+    "spellId": "alshanex_familiars:guardian_angel",
+    "category": "SUPPORT,DEFENSIVE",
+    "school": "familiarslib:sound",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Calls the angels to play an angelic melody that will heal and protect you and your allies."
+  },
+  {
+    "spellId": "alshanex_familiars:birds_spell",
+    "category": "SUPPORT",
+    "school": "familiarslib:sound",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Summons little birds that will cheer you and your allies, giving you a little boost for some time."
+  },
+  {
+    "spellId": "alshanex_familiars:music_bolt",
+    "category": "OFFENSIVE",
+    "school": "familiarslib:sound",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Shoots a simple note towards the enemy."
+  },
+  {
+    "spellId": "alshanex_familiars:sonata",
+    "category": "OFFENSIVE",
+    "school": "familiarslib:sound",
+    "minRarity": "EPIC",
+    "castType": "CONTINUOUS",
+    "description": "Start playing a fast-paced song for everyone to hear, an harmonious melody to hurt your enemies."
+  },
+  {
+    "spellId": "alshanex_familiars:lullaby",
+    "category": "UNCATEGORIZED",
+    "school": "familiarslib:sound",
+    "minRarity": "LEGENDARY",
+    "castType": "CONTINUOUS",
+    "description": "Start playing a slow-paced, harmonious melody to make your enemies sleepy."
+  },
+  {
+    "spellId": "alshanex_familiars:ice_age",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Freeze everything around you, covering the world in ice."
+  },
+  {
+    "spellId": "alshanex_familiars:ice_chamber",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Shoot a freezing ray that will freeze an area around the impact and sometimes even the enemy itself."
+  },
+  {
+    "spellId": "alshanex_familiars:megido",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Summon the wrath of the heavens, striking with lightnings every entity that dares to come around."
+  },
+  {
+    "spellId": "alshanex_familiars:fire_fist",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Strike with a powerful fire fist burning everything in the way."
+  },
+  {
+    "spellId": "alshanex_familiars:end_mayhem",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "This spell allows you to become the ruler of the end while casting it, allowing you to use the full power of the end dimension to kill your target."
+  },
+  {
+    "spellId": "irons_spellbooks:acupuncture",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Around a targeted creature, create a field of blood needles in every direction, shooting down and healing you for 25% of damage done"
+  },
+  {
+    "spellId": "irons_spellbooks:blood_needles",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Create a ring of needles made from blood and fire them forward, skewering targets and healing you for 25% of damage done"
+  },
+  {
+    "spellId": "irons_spellbooks:blood_slash",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Slash forward to send out a concentrated blade of blood, slicing through creatures and healing for 15% of damage done."
+  },
+  {
+    "spellId": "irons_spellbooks:blood_step",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Instantaneously teleport to where you are looking, or directly behind any targeted creature. Gain a short duration of true invisibility upon reaching your destination."
+  },
+  {
+    "spellId": "irons_spellbooks:devour",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Pull in a nearby creature and attack them with a bite, leeching 15% of damage done as health. If the creature is killed, you temporarily gain additional max HP. Created by the Ancient Magician known as Yorhavich."
+  },
+  {
+    "spellId": "irons_spellbooks:heartstop",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Cast to inflict yourself with Heartstop, an effect that makes you temporarily invulnerable. However, once it wears off, you take 50% of all damage accumulated while under its effects."
+  },
+  {
+    "spellId": "irons_spellbooks:raise_dead",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Cast to summon undead minions from the earth beneath you. The higher the power, the better equipment they will have."
+  },
+  {
+    "spellId": "irons_spellbooks:ray_of_siphoning",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to cast a ray of necrotic energy that siphons health from creatures it hits, damaging them and healing you for 100% of damage done."
+  },
+  {
+    "spellId": "irons_spellbooks:wither_skull",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Launch a wither skull forward that explodes in a small radius around the impact. The higher the level, the faster the projectile."
+  },
+  {
+    "spellId": "irons_spellbooks:sacrifice",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Target one of your magic summons to cause them to explode, killing them instantly, and dealing large damage in the area around them. The summon\u0027s remaining health boosts the damage dealt and radius of explosion."
+  },
+  {
+    "spellId": "irons_spellbooks:counterspell",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Cast to interrupt any targeted magical process, such as a casting creature or a magical projectile."
+  },
+  {
+    "spellId": "irons_spellbooks:dragon_breath",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to spew a cone of dragon breath forwards. Each time a creature is hit, there is a chance to create a pool of dragon breath at their feet."
+  },
+  {
+    "spellId": "irons_spellbooks:evasion",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Cast to imbue yourself with ender energy. Upon being attacked while under its effects, you will immediately teleport within a short radius and avoid taking any damage. Only a finite amount of hits can be dodged before the effect immediately wears off."
+  },
+  {
+    "spellId": "irons_spellbooks:magic_arrow",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Hold to charge a piercing arrow made of arcane energy. This arrow has no gravity and can travel through blocks."
+  },
+  {
+    "spellId": "irons_spellbooks:magic_missile",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Shoot a bolt of concentrated arcane magic. Also a trademark of every wizard."
+  },
+  {
+    "spellId": "irons_spellbooks:starfall",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "UNCOMMON",
+    "castType": "CONTINUOUS",
+    "description": "Target a single area and continuously rain down arcane comets from above for the duration of the spell"
+  },
+  {
+    "spellId": "irons_spellbooks:teleport",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Instantaneously teleport to where you are looking, leaving nothing but a cloud of ender energy behind."
+  },
+  {
+    "spellId": "irons_spellbooks:summon_ender_chest",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Apparate your Ender Chest inventory upon casting."
+  },
+  {
+    "spellId": "irons_spellbooks:recall",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Warps you back to your spawn location, or world spawn if there is none."
+  },
+  {
+    "spellId": "irons_spellbooks:portal",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Creates two portals that allows players to travel back and forth between them."
+  },
+  {
+    "spellId": "irons_spellbooks:echoing_strikes",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "While under the effects of the spell, non-magical attacks will leave an echo of ender energy behind, shortly thereafter exploding with an echo of the original attack\u0027s damage."
+  },
+  {
+    "spellId": "irons_spellbooks:black_hole",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Around a targeted location, create a fissure into the void, manifesting a black hole that will suck in nearby creatures and slowly crush them to death"
+  },
+  {
+    "spellId": "irons_spellbooks:summon_swords",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Conjure a trio of spectral armaments to aid in battle: a brawling shortsword, a quick rapier, and a tanking claymore. Created by the Ancient Magician known as Hazentouvel."
+  },
+  {
+    "spellId": "irons_spellbooks:shadow_slash",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:ender",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Dash forward with a arcing slash of arcane energy, striking creatures in an area. Projectiles hit are deflected. Scales off held weapon\u0027s melee damage and enchantments."
+  },
+  {
+    "spellId": "irons_spellbooks:chain_creeper",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Around a targeted creature or block, conjure a ring of creeper heads that falls to the ground and explodes. Any creature killed by this blast will conjure another, smaller, ring of creeper heads. This can chain multiple times."
+  },
+  {
+    "spellId": "irons_spellbooks:fang_strike",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Conjure a line of evoker fangs in front of you, in classic illager fashion."
+  },
+  {
+    "spellId": "irons_spellbooks:fang_ward",
+    "category": "OFFENSIVE,DEFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Conjure protective rings of evoker fangs around you, in classic illager fashion."
+  },
+  {
+    "spellId": "irons_spellbooks:firecracker",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Instantaneously conjure a firework where you look that explodes in a small radius around it."
+  },
+  {
+    "spellId": "irons_spellbooks:gust",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Conjure a strong gust of wind, knocking back creatures in a conical shape, causing damage if they impact a wall"
+  },
+  {
+    "spellId": "irons_spellbooks:invisibility",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Cast to briefly grant yourself true invisibility, which hides armor and held items, but immediately wears off upon dealing damage. Mobs also lose aggro."
+  },
+  {
+    "spellId": "irons_spellbooks:lob_creeper",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Lob the head of a creeper forward that explodes in a medium radius around the impact. The higher the level, the faster the projectile."
+  },
+  {
+    "spellId": "irons_spellbooks:shield",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Conjure a stationary shield of arcane energy where you look that will block projectiles and prevent creatures from passing."
+  },
+  {
+    "spellId": "irons_spellbooks:spectral_hammer",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Conjure a spectral hammer out from where you look that will mine all connected stone-type blocks in a cube where it hits, leaving only ores and rubble behind."
+  },
+  {
+    "spellId": "irons_spellbooks:summon_horse",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Conjure a spectral steed that will follow you around and only let you ride. The horse\u0027s speed, health, and jump height scales with spell power."
+  },
+  {
+    "spellId": "irons_spellbooks:summon_vex",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Cast to conjure vexes that will follow, protect, and fight for you."
+  },
+  {
+    "spellId": "irons_spellbooks:slow",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "In a radius around a targeted creature, apply the Slowed effect to enemies, decreasing movement speed, attack speed, mining speed, mana regeneration, and cast time for a duration."
+  },
+  {
+    "spellId": "irons_spellbooks:arrow_volley",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Around a targeted creature or block, summon a rolling wave of magical arrows from the sky."
+  },
+  {
+    "spellId": "irons_spellbooks:wololo",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Wololo!"
+  },
+  {
+    "spellId": "irons_spellbooks:throw",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cast to throw your held item, dealing a base damage plus damage normally inflicted by the item."
+  },
+  {
+    "spellId": "irons_spellbooks:blaze_storm",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to unleash a barrage of blaze fireballs, shooting rapidly but wildly in front of you and igniting any creatures or blocks hit."
+  },
+  {
+    "spellId": "irons_spellbooks:burning_dash",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Quickly launch yourself forward in a haze of fire, searing creatures you pass through while in a blaze."
+  },
+  {
+    "spellId": "irons_spellbooks:fireball",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Manifest and throw a ball of fire, exploding and dealing massive damage on impact."
+  },
+  {
+    "spellId": "irons_spellbooks:firebolt",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Shoot a small projectile of fire, igniting whatever it hits."
+  },
+  {
+    "spellId": "irons_spellbooks:fire_breath",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to spew a cone of fire outwards, igniting creatures and blocks in its path."
+  },
+  {
+    "spellId": "irons_spellbooks:magma_bomb",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Launch a bomb made from magma, exploding on impact and leaving a field of fire where it lands"
+  },
+  {
+    "spellId": "irons_spellbooks:wall_of_fire",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Recast to place anchor points, which erupts into a wall of fire when the cast finishes, or when the maximum length is reached. This wall blocks projectiles and ignites creatures that pass through it."
+  },
+  {
+    "spellId": "irons_spellbooks:heat_surge",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Emanate a surge of fiery magic, igniting and rending creatures in a radius around you. Rended creatures have reduced armor."
+  },
+  {
+    "spellId": "irons_spellbooks:flaming_strike",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Unleash a sweeping melee attack in the form of a wreath of flames. This spell is uninterruptible. The damage scales off of your held weapon\u0027s melee damage and enchantments."
+  },
+  {
+    "spellId": "irons_spellbooks:scorch",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "In a targeted area, erupt a scorch of fiery magic, damaging creatures in the zone and leaving a field of fire."
+  },
+  {
+    "spellId": "irons_spellbooks:flaming_barrage",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Repeatedly cast to shoot individual small fireballs, which home towards your cursor, or the creature your cursor is targeting."
+  },
+  {
+    "spellId": "irons_spellbooks:fire_arrow",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Aim an arrow made of fiery magic that will deal direct damage on impact and explode for half damage in a small radius around it. It flies straight for a duration before gravity affects it."
+  },
+  {
+    "spellId": "irons_spellbooks:raise_hell",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Slam down your weapon to wreath a fiery shockwave in a large radius around you. Damage scales based on the held weapon."
+  },
+  {
+    "spellId": "irons_spellbooks:angel_wing",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "Cast to gain wings made of holy energy, acting as an elytra, for a brief period of time."
+  },
+  {
+    "spellId": "irons_spellbooks:blessing_of_life",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cast to target any creature, showing a glowing outline. Completing the cast will heal this creature."
+  },
+  {
+    "spellId": "irons_spellbooks:cloud_of_regeneration",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to slowly heal friendly creatures within a radius around you."
+  },
+  {
+    "spellId": "irons_spellbooks:fortify",
+    "category": "SUPPORT,DEFENSIVE",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Upon casting, fortify every friendly creature within a radius around you, giving them temporary HP."
+  },
+  {
+    "spellId": "irons_spellbooks:greater_heal",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "A more powerful but much slower version of heal, this spell will completely heal yourself upon being casted."
+  },
+  {
+    "spellId": "irons_spellbooks:guiding_bolt",
+    "category": "OFFENSIVE,SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Fire a slow bolt of holy energy. Creatures hit will gain the Guided effect, homing nearby projectiles in towards them"
+  },
+  {
+    "spellId": "irons_spellbooks:healing_circle",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Around a targeted creature or block, place a stationary circle of holy magic that heals allies within"
+  },
+  {
+    "spellId": "irons_spellbooks:heal",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Cast to infuse yourself with holy energy and immediately regain health."
+  },
+  {
+    "spellId": "irons_spellbooks:sunbeam",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Funnel the power of the heavens into a beam of holy energy from above, smiting targets in an area."
+  },
+  {
+    "spellId": "irons_spellbooks:wisp",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Conjure a projectile of holy energy that will float towards nearby targets and deal damage upon impact."
+  },
+  {
+    "spellId": "irons_spellbooks:divine_smite",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "With a fervor of holy energy, swing forth your weapon, doing a melee area attack. This spell is uninterruptible. The damage scales off of your held weapon\u0027s melee damage and enchantments."
+  },
+  {
+    "spellId": "irons_spellbooks:haste",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "In a radius around a targeted creature, or yourself if no creature is targeted, apply the Hastened effect, increasing movement speed, attack speed, mining speed, mana regeneration, and cast time reduction for a duration."
+  },
+  {
+    "spellId": "irons_spellbooks:cleanse",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "EPIC",
+    "castType": "LONG",
+    "description": "Pray to a divine magic to cleanse yourself and nearby allies of harmful status effects."
+  },
+  {
+    "spellId": "irons_spellbooks:cone_of_cold",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to cast out a cone of cold energy, freezing creatures in its path."
+  },
+  {
+    "spellId": "irons_spellbooks:frost_step",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Teleport to where you are looking, leaving behind a shadow of ice. This shadow will take nearby aggro, and shatter into icicles after 5 seconds or upon taking any damage."
+  },
+  {
+    "spellId": "irons_spellbooks:ice_block",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Conjure a giant chunk of ice above a targeted creature or block. After a short delay, it will fall down and explode for area frost damage, doing additional damage to any creatures hit on the way down."
+  },
+  {
+    "spellId": "irons_spellbooks:icicle",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Fire a piercing bolt of cold energy in the form of an icicle, freezing those it touches."
+  },
+  {
+    "spellId": "irons_spellbooks:summon_polar_bear",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Cast to summon a polar bear who will follow, protect, and fight for you, as well as providing a mount."
+  },
+  {
+    "spellId": "irons_spellbooks:ray_of_frost",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Fire a beam of cold energy, dealing low damage but immediately applying freeze to the creature hit."
+  },
+  {
+    "spellId": "irons_spellbooks:frostwave",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Cascade a wave of frost magic in a radius around you, afflicting creatures with chilled. Chilled creatures become entombed in ice when fully frozen."
+  },
+  {
+    "spellId": "irons_spellbooks:ice_spikes",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Unleash a cascading line of ice magic, creating ice crystals that emerge from the ground. The final spike does full damage, and will emerge early if a creature within range is targeted."
+  },
+  {
+    "spellId": "irons_spellbooks:ice_tomb",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Encase yourself in a protective tomb of ice, providing healing while within, absorbing one hit or counterspell before breaking. Dismount to leave the tomb."
+  },
+  {
+    "spellId": "irons_spellbooks:snowball",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Conjure a giant snowball and throw it forward, bursting into a frosty field and Chilling creatures in a surrounding radius on impact. Chilled creatures become entombed in ice when fully frozen."
+  },
+  {
+    "spellId": "irons_spellbooks:frostbite",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Imbue yourself with a magical Frostbiting power, making any fully-frozen creature you kill turn into an Ice Shadow. Ice Shadows shatter into icicles after 5 seconds or upon taking any damage."
+  },
+  {
+    "spellId": "irons_spellbooks:ascension",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Cast to strike lightning at your feet and ascend quickly into the air, and gain reduced gravity for a short duration. The lightning bolt deals damage and knocks back creatures struck."
+  },
+  {
+    "spellId": "irons_spellbooks:chain_lightning",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "UNCOMMON",
+    "castType": "INSTANT",
+    "description": "Start a chain of lightning from a targeted creature, causing waves of zapping magic to cascade to nearby creatures"
+  },
+  {
+    "spellId": "irons_spellbooks:charge",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Imbue yourself with the power of lightning, increasing your speed and combat abilities."
+  },
+  {
+    "spellId": "irons_spellbooks:electrocute",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Hold to manifest a cone of electrical energy, damaging creatures in its path."
+  },
+  {
+    "spellId": "irons_spellbooks:lightning_bolt",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "EPIC",
+    "castType": "INSTANT",
+    "description": "Down from the heavens, summon a bolt of lightning."
+  },
+  {
+    "spellId": "irons_spellbooks:lightning_lance",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Hold to charge a spear made of lightning. Release to throw it like a javelin, dealing high damage to the creature it hits."
+  },
+  {
+    "spellId": "irons_spellbooks:shockwave",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Coalesce a surge of electrical power, and unleash it in a devastating shockwave, blasting exposed creatures."
+  },
+  {
+    "spellId": "irons_spellbooks:thunderstorm",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Cast to conjure a thunderstorm centered around yourself, which strikes nearby creatures within sight with a small bolt of lightning every 2 seconds for the spell\u0027s duration."
+  },
+  {
+    "spellId": "irons_spellbooks:ball_lightning",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Conjure an orb of lightning that slowly moves forward, damaging creatures it phases through and bouncing off blocks."
+  },
+  {
+    "spellId": "irons_spellbooks:volt_strike",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Leap forward in a spinning voltaic attack, striking the first creature or surface you hit, and dealing a residual blast in a small area around around the impact."
+  },
+  {
+    "spellId": "irons_spellbooks:acid_orb",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Spit an orb of acid, splashing in a radius upon impact and rending creatures hit, melting away and reducing their armor"
+  },
+  {
+    "spellId": "irons_spellbooks:blight",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "Target a creature to blight them, reducing their incoming healing and outgoing damage"
+  },
+  {
+    "spellId": "irons_spellbooks:poison_arrow",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "LONG",
+    "description": "Charge a powerful arrow, imbued with poison magic, that will release a poisonous cloud upon impact"
+  },
+  {
+    "spellId": "irons_spellbooks:poison_breath",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "CONTINUOUS",
+    "description": "Spew forth a cone of poison, damaging and poisoning creatures in its reach"
+  },
+  {
+    "spellId": "irons_spellbooks:poison_splash",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Around a targeted creature or block, conjure a wave of poisonous magic that splashes down, damaging creatures hit and leaving behind a poisonous cloud"
+  },
+  {
+    "spellId": "irons_spellbooks:root",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Around a targeted creature, sprout magical roots than entangle them and completely prevent non-magical movement"
+  },
+  {
+    "spellId": "irons_spellbooks:spider_aspect",
+    "category": "SUPPORT",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Instill yourself with poisonous magic, dealing additional melee, ranged, or spell damage creatures that are poisoned"
+  },
+  {
+    "spellId": "irons_spellbooks:firefly_swarm",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Emanate a swarm of violent fireflies, following a targeted creature and dealing aoe damage. If the initial target dies, the last harmed creature will be targeted."
+  },
+  {
+    "spellId": "irons_spellbooks:oakskin",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "The great power of oak infuses itself into your skin, granting damage reduction of any incoming damage for a duration."
+  },
+  {
+    "spellId": "irons_spellbooks:earthquake",
+    "category": "OFFENSIVE",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Conjure an earthquake around a targeted creature or location, causing tremors to ripple through the ground, damaging and slowing creatures in the area."
+  },
+  {
+    "spellId": "irons_spellbooks:stomp",
+    "category": "UNCATEGORIZED",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "With a magic force, stomp the ground in front of you and send a short tremor forward through the ground, damaging creatures in its path."
+  },
+  {
+    "spellId": "irons_spellbooks:gluttony",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "Turn your stomach into an arcane furnace, turning eaten food into mana for a duration."
+  },
+  {
+    "spellId": "irons_spellbooks:touch_dig",
+    "category": "UNCATEGORIZED",
+    "school": "gtbcs_geomancy_plus:geo",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Use magic to break a block. Held items affect drops."
+  },
+  {
+    "spellId": "irons_spellbooks:abyssal_shroud",
+    "category": "DEFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "Cloak yourself with the shadows of the abyss, granting the ability to evade any attack for a short duration of time."
+  },
+  {
+    "spellId": "irons_spellbooks:sculk_tentacles",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "From where you look, erupt a mass of sculk energy in the form of wailing tentacles, damaging and blinding creatures caught in the chaos."
+  },
+  {
+    "spellId": "irons_spellbooks:sonic_boom",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Blast forth a sonic boom of immense power, passing through solid material and harming all creatures in its path."
+  },
+  {
+    "spellId": "irons_spellbooks:planar_sight",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "Shift your vision in between planes, gaining the ability to see creatures through solid material."
+  },
+  {
+    "spellId": "irons_spellbooks:telekinesis",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "CONTINUOUS",
+    "description": "Reach out with a spectral force and grip a creature, forcing them towards your gaze. Creatures are susceptible to kinetic damage."
+  },
+  {
+    "spellId": "irons_spellbooks:eldritch_blast",
+    "category": "OFFENSIVE",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "Fire rays of pure, devastating energy."
+  },
+  {
+    "spellId": "irons_spellbooks:pocket_dimension",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:eldritch",
+    "minRarity": "LEGENDARY",
+    "castType": "LONG",
+    "description": "Cast to transport yourself into a personal pocket dimension only you can access, giving a small free range area."
+  },
+  {
+    "spellId": "otherworldorigins:summon_golem",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "spell.otherworldorigins.summon_golem.guide"
+  },
+  {
+    "spellId": "otherworldorigins:summon_grizzly_bear",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:evocation",
+    "minRarity": "RARE",
+    "castType": "LONG",
+    "description": "spell.otherworldorigins.summon_grizzly_bear.guide"
+  },
+  {
+    "spellId": "otherworldorigins:black_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.black_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:blue_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.blue_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:brass_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.brass_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:bronze_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:lightning",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.bronze_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:copper_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.copper_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:gold_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.gold_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:green_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:nature",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.green_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:red_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:fire",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.red_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:silver_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.silver_dragon_breath.guide"
+  },
+  {
+    "spellId": "otherworldorigins:white_dragon_breath",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:ice",
+    "minRarity": "COMMON",
+    "castType": "INSTANT",
+    "description": "spell.otherworldorigins.white_dragon_breath.guide"
+  },
+  {
+    "spellId": "armor_of_remnants:pyrosanguine_storm",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:blood",
+    "minRarity": "LEGENDARY",
+    "castType": "INSTANT",
+    "description": "In an area around you strike down your enemies with concentrated beams of pyrosanguine plasma, repeated hits on the same creature increases the beams damage by 10%"
+  },
+  {
+    "spellId": "armor_of_remnants:incandescent_slash",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "RARE",
+    "castType": "INSTANT",
+    "description": "Slash forward to send out a concentrated blade of light, slicing through creatures and granting absorption equal to 10% of damage done"
+  },
+  {
+    "spellId": "armor_of_remnants:incandescent_spear",
+    "category": "UNCATEGORIZED",
+    "school": "irons_spellbooks:holy",
+    "minRarity": "UNCOMMON",
+    "castType": "LONG",
+    "description": "Hold to charge a spear made of Divine Incandescence. Release to throw it like a javelin, dealing high damage to the creature it hits and setting it on sun fire."
+  }
+]

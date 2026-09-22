@@ -1,0 +1,13 @@
+name = "Goblin's Tyranny"
+filename = "goblins_tyranny-1.2.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84a87d207f626b1a76182d706249bc2dd36f617d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5651594
+project-id = 1020500

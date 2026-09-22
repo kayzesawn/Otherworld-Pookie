@@ -1,0 +1,13 @@
+name = "Golems Refreshed + Fresh Animations"
+filename = "golems-refreshed-fa-v2.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0886c7e9d309c1248569e69466ef9d64bae993f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6727982
+project-id = 1299721

@@ -1,0 +1,13 @@
+name = "Gobblyn's Better Iron's Spells 'n Spellbooks"
+filename = "Better_ISS_0.5_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7be1460787dd5486231da3da3cc8324171b90722"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5659693
+project-id = 1017979

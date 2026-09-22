@@ -1,0 +1,13 @@
+name = "Aether Adornments"
+filename = "AetherAdornments v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "764120b6d24a7469701f5d74a77c60ff6d285acf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7739603
+project-id = 1482856

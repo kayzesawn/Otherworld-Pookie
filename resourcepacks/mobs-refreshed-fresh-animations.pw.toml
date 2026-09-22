@@ -1,0 +1,13 @@
+name = "Mobs Refreshed + Fresh Animations"
+filename = "mobs-refreshed-fa-v2.01.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85fbd86ab9f26e606d3c40d0879acdd0e1b69931"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5338949
+project-id = 897371

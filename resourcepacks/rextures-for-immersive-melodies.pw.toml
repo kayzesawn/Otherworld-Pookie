@@ -1,0 +1,13 @@
+name = "Retextures for Immersive Melodies"
+filename = "YoannBBs_Melody_Tweaks.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a84aca953558e19960f24c9db4a9b04088da25a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5285749
+project-id = 1008112

@@ -1,0 +1,13 @@
+name = "Vintage Animations"
+filename = "vintage_animations-forge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef3e108a4675804ea592687fe97e3d0a2cf007a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5923960
+project-id = 1134994

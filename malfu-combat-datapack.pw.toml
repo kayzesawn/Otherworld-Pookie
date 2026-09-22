@@ -1,0 +1,13 @@
+name = "Malfu Combat Datapack"
+filename = "MalfuCombatDatapack-V3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "377d1ae9aebf154c6809bab43ac55e883b818a81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7132775
+project-id = 1367308

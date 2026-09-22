@@ -1,0 +1,13 @@
+name = "Draconic Codex (Quark Ancient Tome Expansion)"
+filename = "draconiccodex-0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb0f16500a8383d475eaa83c2e9b8e8ebcdc89c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6607646
+project-id = 1259139

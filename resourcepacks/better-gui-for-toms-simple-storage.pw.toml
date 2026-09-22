@@ -1,0 +1,13 @@
+name = "[Moonsu] Better GUI Create Style for Tom's Simple Storage"
+filename = "[Moonsu] Better GUI Tom's S.S. 2.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7ca9384db3ce17f2c9e8a5ed89502f70e4331cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6909738
+project-id = 988278

@@ -1,0 +1,13 @@
+name = "Teams Friendly Fire Addon"
+filename = "Teams-Friendly-Fire-forge-0.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "048b8ded99d498bb5808322d2dc8d3e3515d1355"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7746191
+project-id = 1477515

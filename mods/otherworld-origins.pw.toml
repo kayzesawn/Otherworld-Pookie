@@ -1,0 +1,13 @@
+name = "Otherworld - Origins"
+filename = "otherworldorigins-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37ce3d5779e15c5b4ed957a475e5d57c01a2d371"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8071766
+project-id = 1127963

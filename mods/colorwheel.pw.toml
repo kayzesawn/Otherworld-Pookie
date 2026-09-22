@@ -1,0 +1,13 @@
+name = "Colorwheel"
+filename = "colorwheel-forge-1.2.5+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0dc9b05361e385847acc7345df8b2b77738558f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8067263
+project-id = 1254143
