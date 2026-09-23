@@ -14110,11 +14110,6 @@ hash = "8ad6c270294f7b300db220dec15fbcb053d0bd298912ff8568ad320f479b2a54"
 metafile = true
 
 [[files]]
-file = "resourcepacks/malfu-combat-datapack.pw.toml"
-hash = "eab7abbfb75c4de0d724124c447bcb1c07495bfb385ee093833261c811c5493e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mickey-joes-relatively-improved-default.pw.toml"
 hash = "fa309f09798b8b99122d3882cceeef6bbc156d60ffc878348922aa56d6b7e534"
 metafile = true
