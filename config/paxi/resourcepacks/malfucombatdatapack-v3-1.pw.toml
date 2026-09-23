@@ -1,8 +1,0 @@
-name = "MalfuCombatDatapack-V3.1"
-filename = "MalfuCombatDatapack-V3.1.zip"
-side = "both"
-
-[download]
-url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/MalfuCombatDatapack-V3.1.zip"
-hash-format = "sha256"
-hash = "c08d8f2ec4b65a4e3b57d873240c7171faff332a1e2b90134a8bdc6c67d0003c"
