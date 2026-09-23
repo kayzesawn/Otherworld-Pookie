@@ -8062,10 +8062,6 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/MCA_resourcepack-V3.1.1.zip"
-hash = "5c4e4d6c3f08f2bcea7ab35c92d4016ec56c7f265a4d7b1f577b43991aec3135"
-
-[[files]]
 file = "config/paxi/resourcepacks/Otherworld Assets/assets/certain_questing_additions/chapter_shaders.json"
 hash = "ee5d0905b0b1cf243e43f11ca99ffdd99a77e177160dc4c4109512c045e607ed"
 
@@ -8456,11 +8452,6 @@ hash = "0a6b4ea136caaabe1dafa1ebf70f64bded7501a844fd4ddbeaf02a4c7928b2e2"
 [[files]]
 file = "config/paxi/resourcepacks/Otherworld Assets/pack.png"
 hash = "82871684a28486ca25713dcf94e1194c0943762d75b5c9e9534a352577070523"
-
-[[files]]
-file = "config/paxi/resourcepacks/malfucombatdatapack-v3-1.pw.toml"
-hash = "3067de9434772c23a915f533bdc7fa17b540c169431e04a68f6c8c6f856550e1"
-metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/mca-resourcepack-v3-1-1.pw.toml"
@@ -9803,11 +9794,6 @@ hash = "c21806c4726854b18805c8cbc706350d84b67aaab2b86b94fd32896a0da40c62"
 [[files]]
 file = "journeymap/config/5.10/journeymap.webmap.config"
 hash = "2c939e2308e7d7d419af26ad342479690e8ae321c7af3ba64d8b0e897ccc8b5b"
-
-[[files]]
-file = "malfu-combat-datapack.pw.toml"
-hash = "eab7abbfb75c4de0d724124c447bcb1c07495bfb385ee093833261c811c5493e"
-metafile = true
 
 [[files]]
 file = "mods/abridged.pw.toml"
@@ -11822,6 +11808,14 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "fe60b1ddbce48c038e1ead3058dc679a9f0e800655a8094c3e311e191a1ce414"
+
+[[files]]
+file = "resourcepacks/MCA_resourcepack-V3.1.1.zip"
+hash = "c08d8f2ec4b65a4e3b57d873240c7171faff332a1e2b90134a8bdc6c67d0003c"
+
+[[files]]
+file = "resourcepacks/MalfuCombatDatapack-V3.1.zip"
+hash = "c08d8f2ec4b65a4e3b57d873240c7171faff332a1e2b90134a8bdc6c67d0003c"
 
 [[files]]
 file = "resourcepacks/Otherworld-GUI/assets/aether/textures/gui/inventory/accessories.png"
@@ -14113,6 +14107,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/lunas-ftbquests-journal.pw.toml"
 hash = "8ad6c270294f7b300db220dec15fbcb053d0bd298912ff8568ad320f479b2a54"
+metafile = true
+
+[[files]]
+file = "resourcepacks/malfu-combat-datapack.pw.toml"
+hash = "eab7abbfb75c4de0d724124c447bcb1c07495bfb385ee093833261c811c5493e"
 metafile = true
 
 [[files]]
