@@ -10326,6 +10326,11 @@ hash = "018a734cf769668782dc519d780801640e5e7c5103cf0e3b32805d292c244c0c"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "a067b322804f822b76487ed38e8b426380adafadca582b6b7e2f698697fab808"
+metafile = true
+
+[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "5b2715bd2dbc5ed20fada1a5f4fe661cd1e4a3ebe7393c92541581ea84f88587"
 metafile = true
@@ -10603,6 +10608,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "95b3a27eadc2854462de996ddce5ff2468771e13ac97c46ed96d41a6edaa056e"
 metafile = true
 
 [[files]]
