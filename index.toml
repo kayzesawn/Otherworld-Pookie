@@ -8458,6 +8458,16 @@ file = "config/paxi/resourcepacks/Otherworld Assets/pack.png"
 hash = "82871684a28486ca25713dcf94e1194c0943762d75b5c9e9534a352577070523"
 
 [[files]]
+file = "config/paxi/resourcepacks/malfucombatdatapack-v3-1.pw.toml"
+hash = "3067de9434772c23a915f533bdc7fa17b540c169431e04a68f6c8c6f856550e1"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mca-resourcepack-v3-1-1.pw.toml"
+hash = "4e7409e9ff43079f1e0133e9c8b91b740ec7bab12c842003422cd4e6aa4c4d2b"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/skyrim-soundpack-v6-1.pw.toml"
 hash = "b32d90867a5da897c155745d6c2d81a3a51ed5bcd818d39f72995c5aca6fc3c1"
 metafile = true
@@ -14103,11 +14113,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/lunas-ftbquests-journal.pw.toml"
 hash = "8ad6c270294f7b300db220dec15fbcb053d0bd298912ff8568ad320f479b2a54"
-metafile = true
-
-[[files]]
-file = "resourcepacks/malfu-combat-animation.pw.toml"
-hash = "c218cc921b4ce26c23b805c843a080cf7a3caf4e46cfb0bb3a308505123d3666"
 metafile = true
 
 [[files]]
