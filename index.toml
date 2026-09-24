@@ -11746,6 +11746,11 @@ hash = "4eabe8d7ac8b53bbaf315e1dd3e2dc8e751c0ac177ad100c17a4d7ac35246d6e"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "072dc48d387fa47076fa27fc82385b1cd79c28591a12d57f27d72d346567c994"
+metafile = true
+
+[[files]]
 file = "mods/xenon.pw.toml"
 hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
 metafile = true
