@@ -1,0 +1,13 @@
+name = "Keyblades"
+filename = "keyblademod-fabric-mc1.20.1-v1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd5c6aafe6793e8be6cd9653718d86c833bb4436"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4668188
+project-id = 432924

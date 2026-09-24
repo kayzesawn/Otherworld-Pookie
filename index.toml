@@ -10881,6 +10881,11 @@ hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
 
 [[files]]
+file = "mods/keyblades-forge-and-fabric.pw.toml"
+hash = "3c41e9c064176be10a776d03ca0fb1019f6a0b9a11eb90f70a784d68beb87b4b"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "41ccf0ad69630060d38686ff155c73446be62b2c77cf5c25707f880c9802c697"
 metafile = true
@@ -10918,6 +10923,16 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
+hash = "77ec1ba3ee352bbd78fec11e6938ae595cc8c66ef56b271d191049bcf10bb989"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "0af5e6d226551aea13a3f7986e1b9092e9e574d696a2fad35dad2875daacc402"
 metafile = true
 
 [[files]]
