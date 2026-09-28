@@ -10186,6 +10186,11 @@ hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "12b4c157fc2d65ed665c939442e5e0dd0727e018026855e2baf33e8b52e937ad"
+metafile = true
+
+[[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "797e455160deddf950616c38f041eb3d687468376a23965e4211588c108abf3e"
 metafile = true
@@ -10696,6 +10701,11 @@ hash = "fb92a886b6a4aa0e364bd5aed6b8765b56930a745aa94d7e120e5b91bb30ced6"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "ade91979b62d96f1b943d93136504ccc8525d05cd23d690085dd22d352a786e8"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
@@ -10878,11 +10888,6 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
-metafile = true
-
-[[files]]
-file = "mods/keyblades-forge-and-fabric.pw.toml"
-hash = "3c41e9c064176be10a776d03ca0fb1019f6a0b9a11eb90f70a784d68beb87b4b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-Forge-2.14.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d177af9b322eb78586e8761f2fdb128d908670e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8753894
+project-id = 428151
