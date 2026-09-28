@@ -10941,6 +10941,16 @@ hash = "0af5e6d226551aea13a3f7986e1b9092e9e574d696a2fad35dad2875daacc402"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-herbal-brews.pw.toml"
+hash = "eb5f5a1cd55bf1ca276911c033b7d84989302e81aae996278546fd13982c61fb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "a4f8a56b5bf05d134b6546f75be3082909a209c6878bd88affe99be464c83c89"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "cd4f68a95ea9d1931c351a058338c5b0aba17769c685fa9a496da43cbac17ad8"
 metafile = true
