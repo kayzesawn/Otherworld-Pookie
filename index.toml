@@ -10396,6 +10396,11 @@ hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
 file = "mods/embers-underground-rooms.pw.toml"
 hash = "f396e57e9302dd737b908ce6292d2aa9da346ee241c584368bd8eb82b355b5e9"
 metafile = true
