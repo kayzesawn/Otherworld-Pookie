@@ -10271,6 +10271,11 @@ hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "3d9b5a2f252fea331eac0559c2f8e90d1675af896da3d4c86535a1d929dec6e0"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "45181af6516b3adc99f7d564763ee0db8eb70cd133a09d3266a903a9f755c5a8"
 metafile = true
@@ -11336,6 +11341,11 @@ hash = "8137ae469feb0f5eececfccf030cd467f985696bd27021795f722d0308347fb2"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "5e7783db288c3031b67928bed50ac2c0743f98802d0162b21b2aabb0d3961d74"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
 metafile = true
@@ -11588,6 +11598,16 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "6cb4a76ae4cf333b8de9d40c0570894b63393101bb88d3630540d029af0747bd"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "7262f4ef1f6a42e2348537571f2adf9453381ead2a7cc2bff7384b8bbe45cc84"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "2d3b7210b4502d0e2acd6158b8a0282debd681aa8558c2237859eeaf43fa24cd"
 metafile = true
 
 [[files]]
