@@ -1,13 +1,8 @@
-name = "Realm RPG: Imps & Demons"
+name = "realm-rpg-imps-demons"
 filename = "realmrpg_imps_and_demons_0.9.1_forge_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "286676ec243d3befda0e5992da3e00f92c899511"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6731285
-project-id = 920662
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/realmrpg_imps_and_demons_0.9.1_forge_1.20.1.jar"
+hash-format = "sha256"
+hash = "d56d42f22a1e0d08140e09cef22db03a522c448dd5953ef8fb4434e8df5dd2af"

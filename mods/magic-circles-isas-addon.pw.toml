@@ -1,13 +1,8 @@
-name = "Magic Circles - ISAS Addon"
+name = "magic-circles-isas-addon"
 filename = "magiccircles-1.1.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3de8b1665bda7cc7d70ebff60bf53f315a4657a2"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7910745
-project-id = 1389289
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/magiccircles-1.1.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "0d0de3fff8a1b8f1be85a907baf47d9f97e6ec2a558fe9867f9889944a397a49"

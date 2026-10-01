@@ -1,13 +1,8 @@
-name = "Entity Culling Fabric/Forge"
+name = "entityculling"
 filename = "entityculling-forge-1.10.2-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67380b3468d18c137628be9434d51c39fd06d7b4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8053757
-project-id = 448233
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/entityculling-forge-1.10.2-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0"

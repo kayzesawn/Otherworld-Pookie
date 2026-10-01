@@ -1,13 +1,8 @@
-name = "Better World Loading ([Neo]Forge)"
+name = "better-world-loading-forge"
 filename = "betterworldloading20-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "877520eff23f44ffc9e399f5365dc67fd74281fc"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6647506
-project-id = 1286032
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/betterworldloading20-1.0.jar"
+hash-format = "sha256"
+hash = "47602c3616381d6d931dc89063cdd2232bea74b9391f128dcce061708a4c2eab"

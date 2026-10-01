@@ -1,13 +1,8 @@
-name = "Gallant Gauntlets"
+name = "gauntlets"
 filename = "gauntlets-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "697a7b5761052b8e5fd92c644fe44f1a2c5fbf18"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5653770
-project-id = 1011857
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/gauntlets-1.0.0.jar"
+hash-format = "sha256"
+hash = "e8108a35583821bbc31ea1aba1f9fcf322711b0b2d0b8d020022c57222e6c0f5"

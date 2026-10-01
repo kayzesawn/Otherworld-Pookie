@@ -1,13 +1,8 @@
-name = "Bee Fix"
+name = "bee-fix"
 filename = "BeeFix-1.20-1.0.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0eba7daf8b460a78375f9d3944e744ce5060d394"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4618962
-project-id = 547989
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/BeeFix-1.20-1.0.7.jar"
+hash-format = "sha256"
+hash = "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566"

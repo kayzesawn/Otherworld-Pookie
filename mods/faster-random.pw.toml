@@ -1,13 +1,8 @@
-name = "(ARCHIVE) Faster Random"
+name = "faster-random"
 filename = "fasterrandom-5.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "440720daaf51d5ad88a96ed59e1f59c63fad3f73"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5559269
-project-id = 912121
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/fasterrandom-5.1.0.jar"
+hash-format = "sha256"
+hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"

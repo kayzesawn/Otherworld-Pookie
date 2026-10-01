@@ -1,13 +1,8 @@
-name = "Realm RPG: Quests & Rewards"
+name = "realm-rpg-quests-rewards"
 filename = "realmrpg_quests-0.1.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "72aee7d095cee4a1ab1201cde5f34842b9564a6b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5388398
-project-id = 1021783
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/realmrpg_quests-0.1.1-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "15cd8dc07d6519ba1d355c58bf0ff833b3add8f05454441c7cd61ecb082b480a"

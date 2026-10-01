@@ -1,13 +1,8 @@
-name = "Integrated Dungeons and Structures"
-filename = "idas_forge-1.13.0+1.20.1.jar"
+name = "idas"
+filename = "IDA-v2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "84386b55c1729e8fb62f91211d046fb6d7ef23d2"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7787515
-project-id = 605375
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/IDA-v2.0.5.jar"
+hash-format = "sha256"
+hash = "4935eed910173c1abcac9819d6f7b3e16b6aca9d44cc8270e2e04930d0905a15"

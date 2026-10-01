@@ -1,13 +1,8 @@
-name = "Nordic Adventure"
+name = "nordic-adventure"
 filename = "nordic_structures-1.6.9-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07c378c1a62ca2b865aead28ce1ee53debd096fe"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5792002
-project-id = 1006963
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/nordic_structures-1.6.9-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "910cd95b3cb33e3d4b8c7df0a0fe3c72b116319073c03b646fb31fd3a4ee480d"

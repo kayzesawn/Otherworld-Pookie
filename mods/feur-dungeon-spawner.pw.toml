@@ -1,13 +1,8 @@
-name = "Feur - Dungeon Spawner"
+name = "feur-dungeon-spawner"
 filename = "feur_dungeon_spawner-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "47f0708b45b0d9fc9514c860c80fc7c606684801"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6680334
-project-id = 1178013
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/feur_dungeon_spawner-1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "01291a5525f48a78934ee3c67261c3b61908d021d6185cd5c1ceeb43c23af5c4"

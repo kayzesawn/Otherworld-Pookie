@@ -1,13 +1,8 @@
-name = "Integrated  Seven Seas"
+name = "integrated-seven-seas"
 filename = "ISS-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f937607eae494fd1572986de8bc962e767d5935b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7737172
-project-id = 1482366
+url = "https://github.com/kayzesawn/Otherworld-Pookie/releases/download/big-file/ISS-1.20.1.jar"
+hash-format = "sha256"
+hash = "3d322c06126282921db97bbd5f97835336e5b04f10d8c8dabce2898d5ad73105"
