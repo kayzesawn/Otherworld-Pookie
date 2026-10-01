@@ -10796,6 +10796,11 @@ hash = "f27119e6d95e46b4943ec7af13ff5a68f8344c6f0344e86a22fe686512c754f7"
 metafile = true
 
 [[files]]
+file = "mods/integrated-dungeons-and-structures.pw.toml"
+hash = "a2d243e3fc3666dc8e8cb21a0e0ad0f8b62ea4aa3ac630c31f288465fe80078b"
+metafile = true
+
+[[files]]
 file = "mods/integrated-seven-seas.pw.toml"
 hash = "5fe0f331484418a89f4845c1e242f9489bfe369b68d5816e07005026dee3d6b0"
 metafile = true
