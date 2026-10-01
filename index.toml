@@ -10241,11 +10241,6 @@ hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
-metafile = true
-
-[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "440554aaa73e84076fbcfb59cce2890e3d16bad871011d9824c23c156dc5e87b"
 metafile = true
@@ -10773,11 +10768,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "ae3f14983e2a8ff5d133b6d665f667c9b23f2f124f63cb634503c6413da1cab8"
-metafile = true
-
-[[files]]
-file = "mods/immersive-melodies-in-backpacks.pw.toml"
-hash = "c15e2d14771785b565682e6d6523238c17d37178cd496009503f92e73f6a4fe2"
 metafile = true
 
 [[files]]
